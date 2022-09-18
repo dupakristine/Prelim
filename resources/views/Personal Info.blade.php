@@ -19,9 +19,16 @@
         <div class="text-center"></div>
         <div class="card shadow-sm mx-auto" style="width:600px">
              <div class="card-body">
-                 <div class="card-title"></div>
+                 <div class="card-title"><stron></strong></div>
                  <p>
-                 My Prelim Project is on this page and submitted to our very talented instructor <strong><em>Mr.Benjie Lenteria </em></strong>
+                 Name:<strong> Kristine Dupa</strong>
+                   A Third year BS in Information Technology student in Mater Dei College
+                 </p>   
+                 <p>
+                 Contact: 096387***** <br>
+                 email: dupakristine96@gmail.com<br>
+                 Address: Ilijan Norte, Tubigon, Bohol</br>
+
                  </p>   
             </div>
         </div>

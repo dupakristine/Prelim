@@ -10,10 +10,10 @@
 </head>
 <body>
    <div class="text-center">
-   <nav class="new justify-content-center">
-            <a href="{{url('/')}}" class="new-link">Home</a>
-            <a href="{{url('/about')}}" class="new-link">About Us</a>
-            <a href="{{url('/profile')}}" class="new-link">Company Profile</a>
+        <nav class="nav justify-content-center">
+            <a href="{{url('/')}}" class="nav-link">Home</a>
+            <a href="{{url('/about')}}" class="nav-link" >About Us</a>
+            <a href="{{url('/profile')}}" class="nav-link">Company Profile</a>
         </nav>
         <h1>About Us</h1>
 
